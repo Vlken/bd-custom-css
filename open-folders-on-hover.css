@@ -1,0 +1,33 @@
+/* hover folders */
+:root {
+  --hover-folders-icon-size: 48px;
+  --hover-folders-entries-limit: 30;
+  --hover-folders-transition-enter-time: 0.5s;
+  --hover-folders-transition-exit-time: 0.25s;
+  --hover-folders-transition-enter-delay: 0.15s;
+  --hover-folders-transition-exit-delay: 0.3s;
+}
+.theme-dark .guilds-2JjMmN .wrapper-38slSD ul[role=group] {
+  margin-top: calc(-1 * var(--hover-folders-icon-size)) !important;
+  max-height: var(--hover-folders-icon-size);
+  position: relative;
+  overflow: hidden;
+  transition: max-height var(--hover-folders-transition-exit-time) ease;
+  transition-delay: var(--hover-folders-transition-exit-delay);
+}
+.theme-dark .guilds-2JjMmN .wrapper-38slSD ul[role=group]:hover {
+  height: auto !important;
+  max-height: calc(var(--hover-folders-entries-limit) * var(--hover-folders-icon-size));
+  transition: max-height var(--hover-folders-transition-enter-time) ease-in;
+  transition-delay: var(--hover-folders-transition-enter-delay);
+}
+.theme-dark .guilds-2JjMmN .wrapper-38slSD:hover > :not(.collapsed-uGXEbi) + .listItem-3SmSlK {
+  visibility: hidden;
+}
+.theme-dark .guilds-2JjMmN .wrapper-38slSD:not(:hover) > .listItem-3SmSlK {
+  transition-delay: calc(var(--hover-folders-transition-exit-time) + var(--hover-folders-transition-exit-delay));
+}
+.theme-dark .guilds-2JjMmN .wrapper-38slSD:not(:hover) * .listItem-3SmSlK {
+  visibility: hidden;
+  transition-delay: calc(var(--hover-folders-transition-exit-time) + var(--hover-folders-transition-exit-delay));
+}
