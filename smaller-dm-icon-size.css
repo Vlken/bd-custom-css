@@ -1,0 +1,5 @@
+/* smaller DM icon size */
+.privateChannels-oVe7HL li .avatar-1HDIsL {
+  transform-origin: center;
+  transform: scale(.8);
+}
