@@ -1,0 +1,4 @@
+/* voice activity background */
+.VoiceActivity-voiceicon-icon:not(.VoiceActivity-voiceicon-iconCurrentCall) {
+  background-color: #444;
+}
