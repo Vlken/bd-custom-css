@@ -1,0 +1,21 @@
+/* spotify controls */
+[aria-label="User area"] button[player="\[object Object\]"] > div {
+  display: inline !important;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 0.6px white;
+  font-size: 16px;
+  text-rendering: optimizeLegibility !important;
+}
+.timeline-UWmgAx .barText-lmqc5O {
+  display: none;
+}
+.timeline-UWmgAx .bar-g2ZMIm {
+  height: 2px;
+  background-color: rgba(79, 84, 92, 0.46);
+}
+.timeline-UWmgAx .grabber-7sd5f5 {
+  background: none;
+}
+.timeline-UWmgAx:hover .barFill-Dhkah7 {
+  background: var(--text-normal);
+}
