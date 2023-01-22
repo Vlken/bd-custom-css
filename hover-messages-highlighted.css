@@ -1,0 +1,9 @@
+/* hover message highlighted */
+ol[data-list-id="chat-messages"] li:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  transition-duration: .2s;
+}
+ol[data-list-id="chat-messages"] li {
+  animation-direction:alternate;
+  transition-duration: .5s;
+}
