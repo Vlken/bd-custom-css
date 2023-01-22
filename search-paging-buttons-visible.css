@@ -1,0 +1,7 @@
+/* search - paging buttons are always visible */
+#search-results + * {
+  position: sticky;
+  bottom: 0;
+  background-color: var(--background-secondary);
+  z-index: 1;
+}
