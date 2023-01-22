@@ -1,0 +1,7 @@
+/* darker server list + titlebar */
+[class*="guilds"], [class*="titleBar"] {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+[class*="titleBar"] {
+  margin-top: 0px;
+}
