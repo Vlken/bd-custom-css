@@ -1,0 +1,21 @@
+/* user details - voice layout */
+.wrapper-3Hk9OB {
+  height: 85px;
+}
+.wrapper-3Hk9OB:empty {
+  display: none;
+}
+.wrapper-3Hk9OB .flex-2S1XBF, .actionButtons-2vEOUh {
+  align-items: flex-start;
+}
+.actionButtons-2vEOUh {
+  display: flex;
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  padding-top: 0;
+}
+.actionButtons-2vEOUh .button-1EGGcP{
+  width: 32px !important;
+  padding: 0;
+}
