@@ -1,0 +1,9 @@
+/* friends - hide close and unpin buttons */
+[data-list-item-id^="private-channels"] + [class^="unpinButton"],
+[data-list-item-id^="private-channels"] + [class^="closeButton"],
+[data-list-item-id^="private-channels"] + [class^="unpinButton"] + [class^="closeButton"] {
+  display: none !important;
+}
+[class^="unpinButton"] {
+  padding-right: 8px;
+}
