@@ -1,0 +1,4 @@
+/* hide server explore button */
+[data-list-id="guildsnav"] .scroller-3X7KbA > .listItem-3SmSlK {
+  display: none;
+}
