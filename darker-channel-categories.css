@@ -1,0 +1,9 @@
+/* darker channel categories */
+[aria-label="Channels"] .containerDefault-3TQ5YN,
+.privateChannelsHeaderContainer-1UWASm {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 24px;
+  padding-top: 3px;
+  margin: 8px 0 4px 8px;
+}
