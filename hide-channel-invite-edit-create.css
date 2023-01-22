@@ -1,0 +1,6 @@
+/* hide channel invite + edit, create channel in category */
+.containerDefault-YUSmu3 .children-1MGS9G .iconItem-1EjiK0[aria-label="Create Invite"],
+.containerDefault-YUSmu3 .children-1MGS9G .iconItem-1EjiK0[aria-label="Edit Channel"],
+.containerDefault-3TQ5YN .children-3MeUvj [aria-label="Create Channel"] {
+  display: none;
+}
