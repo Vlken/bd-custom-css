@@ -1,0 +1,17 @@
+/* live icon */
+.VoiceActivity-voiceicon-iconLive, .live-1V2D-f {
+  line-height: 20px;
+  height: 20px !important;
+  width: 20px;
+  min-width: 20px;
+  border-radius: 50%;
+}
+.VoiceActivity-voiceicon-iconLive * {
+  display: none;
+}
+.VoiceActivity-voiceicon-iconLive:after, .live-1V2D-f:after {
+  content: "🎥" !important;
+  color: white;
+  display: block;
+  text-align: center;
+}
