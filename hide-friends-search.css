@@ -1,0 +1,4 @@
+/* hide friends search */
+[aria-label="Private channels"] > [class^="searchBar"] {
+  display: none !important;
+}
