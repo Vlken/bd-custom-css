@@ -1,0 +1,6 @@
+/* typing indicator highlighted */
+div[class^="typing"] {
+  background-color: #444 !important;
+  animation: blinker 1s linear infinite;
+  margin-right: 0px !important;
+}
