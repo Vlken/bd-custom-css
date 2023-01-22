@@ -1,0 +1,7 @@
+/* darker new message notification bar */
+.newMessagesBar-1hF-9G {
+    background-color: darkblue !important;
+}
+.newMessagesBar-1hF-9G * {
+    color: lightgray;
+}
