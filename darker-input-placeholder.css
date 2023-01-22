@@ -1,0 +1,4 @@
+/* darker input placeholder */
+[class*="placeholder"][class*="slateTextArea"] {
+  color:gray !important;
+}
