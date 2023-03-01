@@ -1,4 +1,4 @@
 /* settings menu order - BD settings on top */
-.side-2ur1Qk>:where(.bd-sidebar-header,.bd-updates-tab,.bd-settings-tab,.bd-customcss-tab,.bd-plugins-tab,.bd-themes-tab,.pluginrepo-tab,.themerepo-tab,:where(.bd-themes-tab,.pluginrepo-tab,.themerepo-tab)+.separator-2wx7h6){
+.side-1lrxIh > :where(.bd-sidebar-header, .bd-updates-tab, .bd-settings-tab, .bd-customcss-tab, .bd-plugins-tab, .bd-themes-tab, .pluginrepo-tab, .themerepo-tab, :where(.bd-themes-tab, .pluginrepo-tab, .themerepo-tab) + .separator-2wx7h6) {
   order: -1;
 }
