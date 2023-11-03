@@ -1,4 +1,4 @@
 /* hide server explore button */
-[data-list-id="guildsnav"] .scroller-3X7KbA > .listItem-3SmSlK {
+[data-list-id="guildsnav"] .scroller__3d071 > .listItem_fa7b36 {
   display: none;
 }
