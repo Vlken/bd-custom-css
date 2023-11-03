@@ -1,5 +1,5 @@
 /* hide sticker button from input field */
-.buttons-uaqb-5 .container-3Csys8,
-.buttons-uaqb-5 .expression-picker-chat-input-button:nth-of-type(2) {
+.buttons_ce5b56 .container-3Csys8,
+.buttons_ce5b56 .expression-picker-chat-input-button:nth-of-type(2) {
   display: none;
 }
