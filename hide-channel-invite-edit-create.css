@@ -1,6 +1,6 @@
 /* hide channel invite + edit, create channel in category */
-.containerDefault-YUSmu3 .children-1MGS9G .iconItem-1EjiK0[aria-label="Create Invite"],
-.containerDefault-YUSmu3 .children-1MGS9G .iconItem-1EjiK0[aria-label="Edit Channel"],
-.containerDefault-3TQ5YN .children-3MeUvj [aria-label="Create Channel"] {
+.containerDefault__3187b .children_a486f8 .iconItem__8e3b8[aria-label="Create Invite"],
+.containerDefault__3187b .children_a486f8 .iconItem__8e3b8[aria-label="Edit Channel"],
+.containerDefault__23a29 .children_d4d259 [aria-label="Create Channel"] {
   display: none;
 }
