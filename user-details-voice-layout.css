@@ -1,21 +1,21 @@
 /* user details - voice layout */
-.wrapper-3Hk9OB {
+.wrapper__0ed4a {
   height: 85px;
 }
-.wrapper-3Hk9OB:empty {
+.wrapper__0ed4a:empty {
   display: none;
 }
-.wrapper-3Hk9OB .flex-2S1XBF, .actionButtons-2vEOUh {
+.wrapper__0ed4a .flex_f5fbb7, .actionButtons_b58cbb {
   align-items: flex-start;
 }
-.actionButtons-2vEOUh {
+.actionButtons_b58cbb {
   display: flex;
   position: absolute;
   right: 8px;
   bottom: 8px;
   padding-top: 0;
 }
-.actionButtons-2vEOUh .button-1EGGcP{
+.actionButtons_b58cbb .button__66e8c{
   width: 32px !important;
   padding: 0;
 }
