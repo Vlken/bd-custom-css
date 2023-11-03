@@ -1,30 +1,30 @@
 /* emote menu background */
-.contentWrapper-3vHNP2, .emojiPicker-6YCk8a {
+.contentWrapper__321ed, .emojiPicker_b65ce9 {
   background: linear-gradient(0deg, rgba(44, 44, 44, 0.65), 
   rgba(44, 44, 44, 0.65), rgba(44, 44, 44, 0.65)) !important;
   backdrop-filter: blur(16px) !important;
 }
-.categoryList-2qRrlj, .wrapper-22rqw6,
-.inspector-DFKXwB {
+.categoryList_f8c48f, .wrapper__4f229,
+.inspector__993e1 {
   background-color: rgba(0, 0, 0, 0.2) !important;
 }
-.standardStickerShortcut-ObSns3, .unicodeShortcut-3N8oDe {
+.standardStickerShortcut__5254d, .unicodeShortcut__1dd6b {
   display: none !important;
 }
-.header-1ULbqO, .wrapper-1NNaWG {
+.header_c3c744, .wrapper__7a35f {
   background-color: rgba(0, 0, 0, 0.2) !important;
   border-radius: 0px !important;
 }
-.wrapper-1NNaWG:after {
+.wrapper__7a35f:after {
   background-color: transparent !important;
 }
-.header-1ULbqO .headerLabel-1g790w {
+.header_c3c744 .headerLabel_e9f74f {
   text-transform: uppercase !important;
   color: var(--header-secondary) !important;
   font-size: 12px !important;
   font-weight: 600 !important;
 }
-.wrapper-1NNaWG {
+.wrapper__7a35f {
   margin: 0 -8px !important;
   padding-left: 16px !important;
 }
