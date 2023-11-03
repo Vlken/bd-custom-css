@@ -1,5 +1,5 @@
 /* live icon */
-.VoiceActivity-voiceicon-iconLive, .live-1V2D-f {
+.VoiceActivity-voiceicon-iconLive, .live_b195a5 {
   line-height: 20px;
   height: 20px !important;
   width: 20px;
@@ -9,7 +9,7 @@
 .VoiceActivity-voiceicon-iconLive * {
   display: none;
 }
-.VoiceActivity-voiceicon-iconLive:after, .live-1V2D-f:after {
+.VoiceActivity-voiceicon-iconLive:after, .live_b195a5:after {
   content: "🎥" !important;
   color: white;
   display: block;
